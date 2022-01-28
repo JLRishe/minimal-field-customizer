@@ -14,17 +14,6 @@
       "mpnId": "Undefined-1.13.1"
     },
     "features": [
-      {
-        "title": "Application Extension - Deployment of custom action.",
-        "description": "Deploys a custom action with ClientSideComponentId association",
-        "id": "b18367a0-9673-4dad-9563-d16822b43942",
-        "version": "1.0.0.0",
-        "assets": {
-          "elementManifests": [
-            "elements.xml"
-          ]
-        }
-      }
     ]
   },
   "paths": {
