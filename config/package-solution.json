@@ -3,7 +3,7 @@
   "solution": {
     "name": "minimal-field-customizer-client-side-solution",
     "id": "0707735f-2e5b-418e-b8b3-25433092c9b2",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {
@@ -12,9 +12,7 @@
       "privacyUrl": "",
       "termsOfUseUrl": "",
       "mpnId": "Undefined-1.13.1"
-    },
-    "features": [
-    ]
+    }
   },
   "paths": {
     "zippedPackage": "solution/minimal-field-customizer.sppkg"
